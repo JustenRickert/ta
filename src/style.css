@@ -1,0 +1,7 @@
+.player {
+    position: absolute;
+    height: 400px;
+    width: 192px;
+    border: 1px solid black;
+}
+
